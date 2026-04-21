@@ -62,7 +62,7 @@ AI 에이전트 간 자율 협상(Agent-to-Agent)으로 다수 참여자의 일�
 
 - **문제 정의**: 기존 캘린더·조율 도구는 기록/공유 중심 — '자동 협상' 기능 부재
 - **솔루션**: TimeSlot 알고리즘 + A2A 협상 구조로 후보 탐색 및 대안 제시 자동화
-- **성과**: iOS 앱 정식 출시 완료 / 예비창업패키지 사업계획서 작성 주도
+- **성과**: iOS 앱 정식 출시 완료 
 - **스택**: `React Native(Expo)` `Next.js` `TypeScript` `Python` `OpenAI GPT-4` `Google Calendar API` `OAuth 2.0` `WebSocket`
 
 ---
