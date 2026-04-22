@@ -62,7 +62,7 @@ AI 에이전트 간 자율 협상(Agent-to-Agent)으로 다수 참여자의 일�
 
 - **문제 정의**: 기존 캘린더·조율 도구는 기록/공유 중심 — '자동 협상' 기능 부재
 - **솔루션**: TimeSlot 알고리즘 + A2A 협상 구조로 후보 탐색 및 대안 제시 자동화
-- **성과**: iOS 앱 정식 출시 완료 
+- **성과**: iOS 앱 정식 출시 완료
 - **스택**: `React Native(Expo)` `Next.js` `TypeScript` `Python` `OpenAI GPT-4` `Google Calendar API` `OAuth 2.0` `WebSocket`
 
 ---
@@ -127,9 +127,11 @@ CNN 기반 바이러스 검출 모델 설계 및 웹 진단 시스템 구현. �
 | 2021.03 ~ 2022.12 | **CHEMICOM** — 대학연합 코딩 소모임 | 프로그래밍 스터디 |
 
 ---
-🐾 My GitAnimals
+
+## 🐾 My GitAnimals
+
 <div align="center">
-https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mintgyumin&utm_content=farm
-</div>
-  
+
+[![GitAnimals](https://render.gitanimals.org/farms/mintgyumin)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mintgyumin&utm_content=farm)
+
 </div>
