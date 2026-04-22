@@ -127,5 +127,9 @@ CNN 기반 바이러스 검출 모델 설계 및 웹 진단 시스템 구현. �
 | 2021.03 ~ 2022.12 | **CHEMICOM** — 대학연합 코딩 소모임 | 프로그래밍 스터디 |
 
 ---
-
+🐾 My GitAnimals
+<div align="center">
+https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mintgyumin&utm_content=farm
+</div>
+  
 </div>
